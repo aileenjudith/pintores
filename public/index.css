@@ -1,0 +1,16 @@
+body {
+background-image: url(ima/th.jpg);
+padding: 10%;
+background-size: cover;
+text-align: center;
+
+}
+h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a{
+    text-decoration: solid;
+    color: white;
+    text-align: center;
+}
